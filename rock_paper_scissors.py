@@ -1,4 +1,4 @@
-### Author: Carolus ###
+### Author: Soulacex ###
 
 
 import tkinter as tk
